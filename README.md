@@ -1,4 +1,6 @@
-# GitHub
+# TIL
+
+## GitHub
 
 ### cd : change directory
 
@@ -44,7 +46,7 @@
 	+ vsCode 
 	+ 파이참
 
-# git
+## git
 ### 커밋기록자들 등록
  - git config --global -l : 이름, 이메일 확인
 
